@@ -1,13 +1,13 @@
 ![TW](TW.jpg)
 
-### Hola Mundo
+# Hi, I'm Daniel
 
-##Me llamo Daniel Blanquel
+### Meet me
 
-#Enlace a mis redes sociales:
+[Twitter](https://twitter.com/dblkl)
 
-![Twitter](https://twitter.com/dblkl)
-![Facebook](https://www.facebook.com/dblanquelgtz/)
-![LinkedIn](https://www.linkedin.com/in/dblanquel/)
+[Facebook](https://www.facebook.com/dblanquelgtz/)
+
+[LinkedIn](https://www.linkedin.com/in/dblanquel/)
 
 
